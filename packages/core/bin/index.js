@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 console.log(process.argv.slice(2))
+console.log('welcome hot-moon')
 
 // const importLocal = require('import-local');
 // if (importLocal(__filename)) {
