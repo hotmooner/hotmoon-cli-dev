@@ -1,6 +1,6 @@
 {
   "name": "@hotmoon-cli-dev/utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "hotmooner <37256998+hotmooner@users.noreply.github.com>",
   "homepage": "",
@@ -15,8 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Run testing form utils\""
-  },
-  "devDependencies": {
   },
   "publishConfig": {
     "access": "public"
