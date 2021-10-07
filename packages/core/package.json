@@ -7,7 +7,7 @@
   "license": "ISC",
   "main": "lib/core.js",
   "bin": {
-    "hotmoon-cli-dev": "bin/index.js"
+    "hotmoon-cli": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
